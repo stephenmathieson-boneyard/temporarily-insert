@@ -1,0 +1,17 @@
+{
+  "name": "temporarily-insert",
+  "version": "0.0.0",
+  "private": true,
+  "description": "temporarily insert an element into the DOM",
+  "keywords": [],
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/temporarily-insert.git"
+  },
+  "dependencies": {
+    "duo": "^0.8.9",
+    "duo-test": "^0.3.11"
+  },
+  "main": "index"
+}
