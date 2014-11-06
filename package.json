@@ -13,5 +13,12 @@
     "duo": "^0.8.9",
     "duo-test": "^0.3.11"
   },
-  "main": "index"
+  "main": "index",
+  "devDependencies": {
+    "mocha": "^2.0.1"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT"
 }
