@@ -21,7 +21,7 @@ module.exports = temporarily;
  *
  * @param {HTMLElement} el
  * @param {Function} fn
- * @api private
+ * @api public
  */
 
 function temporarily(el, fn) {
